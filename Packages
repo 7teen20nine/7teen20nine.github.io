@@ -2,11 +2,12 @@ Package: com.7teen.lol
 Version: 0.1
 Section: Utility
 Maintainer: 7teen20nine
-Depends: com.jakeashacks.say
+Depends: com.jakeashacks.say, com.mc.ruby
 Architecture: iphoneos-arm
 Filename: deb/com.7teen.lol_0.1_iphoneos-arm.deb
-Size: 932
-MD5sum: c5f3de20af1a0c428f70ccbf800cd2d3
-Description: call your friends gay and shit needs rubygem lolcat
+Size: 984
+MD5sum: b060d20304b441e8f4cded75be63ded1
+Description: call your friends gay and shit needs run the install.sh script
 Name: lol
 Author: 7teen20nine
+
