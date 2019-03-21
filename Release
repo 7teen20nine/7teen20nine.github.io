@@ -1,0 +1,8 @@
+Origin: 7teen20nine
+Label: dumbass repo
+Suite: stable
+Version: 1.0
+Codename: dumb-thing
+Architectures: iphoneos-arm
+Components: main
+Description: Some dumbass repo

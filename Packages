@@ -1,0 +1,13 @@
+Package: com.7teen.lol
+Version: 0.1
+Section: Utility
+Maintainer: u/baneoffishballs
+Depends: com.jameshacks.say
+Architecture: iphoneos-arm
+Filename: deb/com.7teen.lol_0.1_iphoneos-arm.deb
+Size: 928
+MD5sum: 31f16e2d878cdb559e02f3a18a771a66
+Description: call your friends gay and shit
+Name: lol
+Author: 7teen20nine
+
