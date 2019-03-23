@@ -1,3 +1,15 @@
+Package: com.7teen.bashprompt
+Version: 0.29.0
+Section: Utility
+Maintainer: https://github.com/twolfson
+Architecture: iphoneos-arm
+Filename: deb/com.7teen.bashprompt_0.29.0_iphoneos-arm.deb
+Size: 241024
+MD5sum: d105e6895aeae150018f5a540ec8f34a
+Description: Copyright (c) 2013 Todd Wolfson
+Name: bashprompt
+Author: Todd Wilson
+
 Package: com.7teen.lol
 Version: 0.1
 Section: Utility
