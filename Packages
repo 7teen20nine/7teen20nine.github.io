@@ -4,8 +4,8 @@ Section: Utility
 Maintainer: https://github.com/twolfson
 Architecture: iphoneos-arm
 Filename: deb/com.7teen.bashprompt_0.29.0_iphoneos-arm.deb
-Size: 241668
-MD5sum: 2b4ae0ee833d26b7c77ce703cd179c1b
+Size: 241708
+MD5sum: b6df35bc299455e91b43e14f3bf84fb2
 Description: Copyright (c) 2013 Todd Wolfson
 Name: bashprompt
 Author: Todd Wilson
