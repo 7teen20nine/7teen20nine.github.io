@@ -23,3 +23,14 @@ Description: call your friends gay and shit needs run the install.sh script
 Name: lol
 Author: 7teen20nine
 
+Package: com.7teen.piraterepobegone
+Version: 0.99.1
+Section: Utility
+Maintainer: piraterepobegone
+Architecture: iphoneos-arm
+Filename: deb/com.7teen.piraterepobegone_0.99.1_iphoneos-arm.deb
+Size: 924
+MD5sum: f8aa58efda0a913846c735b02537116e
+Name: piraterepobegone
+Author: 7teen20nine
+
